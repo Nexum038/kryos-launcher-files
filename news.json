@@ -1,0 +1,16 @@
+{
+  "articles": [
+    {
+      "title": "Welcome to Kryos!",
+      "date": "2026-05-24",
+      "summary": "OSRS-accurate combat, mining, smithing, woodcutting, and fishing now live. Major audit completed — all skills now 1:1 with OSRS rates.",
+      "url": "https://kryos.com/news/welcome"
+    },
+    {
+      "title": "Launcher 1.0 released",
+      "date": "2026-05-24",
+      "summary": "Auto-updating launcher is now live. No more manual client downloads — just hit Play.",
+      "url": "https://kryos.com/news/launcher"
+    }
+  ]
+}
