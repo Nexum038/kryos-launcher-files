@@ -1,14 +1,14 @@
 {
   "launcherVersion": "1.0.0",
-  "clientVersion": "1.0.0",
+  "clientVersion": "1.0.1",
   "cacheVersion": "2026-05-24",
   "files": [
     {
       "name": "Kryos.jar",
       "type": "CLIENT",
       "url": "https://github.com/Nexum038/kryos-launcher-files/releases/download/v1.0.0/Kryos.jar",
-      "sha256": "3d7b5c06d9b99adb23ab1eedf5d1db90c36dfbc06484599261a34de430898471",
-      "size": 65141791
+      "sha256": "6986ed4c18934408951823118529d4368c3b77fb42c0edeb27b55736344a0e28",
+      "size": 65142160
     },
     {
       "name": "kryos-launcher-1.0.0.msi",
