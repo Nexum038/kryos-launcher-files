@@ -1,10 +1,16 @@
 {
   "articles": [
     {
-      "title": "Welcome to Kryos!",
-      "date": "2026-05-24",
-      "summary": "OSRS-accurate combat, mining, smithing, woodcutting, and fishing now live. Major audit completed — all skills now 1:1 with OSRS rates.",
-      "url": "https://kryos.com/news/welcome"
+      "title": "Open Beta is Live!",
+      "date": "2026-06-03",
+      "summary": "Kryos open beta v1.0.0 is here. Auto-updating launcher, full OSRS-accurate combat and skilling, Inventory Tags, Task Manager, Perk Hub. Join the Discord for bug reports and feedback.",
+      "url": "https://kryos.com/news/open-beta"
+    },
+    {
+      "title": "Plugin overhaul: Inventory Tags + Task Manager",
+      "date": "2026-06-03",
+      "summary": "Shift+right-click any item to color-tag it (Pick Color / Set Color / Reset Color). New Task Manager side-panel tracks objectives across 5 difficulty tiers — claim perk points as you complete them.",
+      "url": "https://kryos.com/news/plugins"
     },
     {
       "title": "Launcher 1.0 released",

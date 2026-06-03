@@ -1,14 +1,84 @@
 {
-    "launcherVersion": "1.0.3",
-    "clientVersion": "1.0.1",
+    "launcherVersion": "1.0.0",
+    "clientVersion": "1.0.0",
     "cacheVersion": "2026-06-03",
     "files": [
         {
             "name": "Kryos.jar",
             "type": "CLIENT",
-            "url": "https://github.com/Nexum038/kryos-launcher-files/releases/download/v1.0.1/Kryos.jar",
-            "sha256": "664a8cf9fed024a21a26d0cee36b237d4e348ac820aa9ad2f9d68262650bf783",
-            "size": 78495250
+            "url": "https://github.com/Nexum038/kryos-launcher-files/releases/download/v1.0.0/Kryos.jar",
+            "sha256": "eba37004fc5c9f06cfe74b09df1f0b6e9beb8fa768291e5c1ba2f71b46407573",
+            "size": 78494473
+        },
+        {
+            "name": "kryos-launcher-1.0.0.msi",
+            "type": "LAUNCHER",
+            "url": "https://github.com/Nexum038/kryos-launcher-files/releases/download/v1.0.0/kryos-launcher-1.0.0.msi",
+            "sha256": "5e4b1fb0444542004d77f8c83373a882db8c9c6ce8f42cecee19515f7e1e09ec",
+            "size": 81274392
+        },
+        {
+            "name": "main_file_cache.dat",
+            "type": "CACHE",
+            "url": "https://github.com/Nexum038/kryos-launcher-files/releases/download/v1.0.0/main_file_cache.dat",
+            "sha256": "9dc6461552d51a163f9525e7b5c9a2641293f4b24df5e62c4d40d76dd455052a",
+            "size": 153158625
+        },
+        {
+            "name": "main_file_cache.idx0",
+            "type": "CACHE",
+            "url": "https://github.com/Nexum038/kryos-launcher-files/releases/download/v1.0.0/main_file_cache.idx0",
+            "sha256": "47209f05e28968c7a06f5f7941e7801cbab54bd7f75af86f70259ce82e639115",
+            "size": 54
+        },
+        {
+            "name": "main_file_cache.idx1",
+            "type": "CACHE",
+            "url": "https://github.com/Nexum038/kryos-launcher-files/releases/download/v1.0.0/main_file_cache.idx1",
+            "sha256": "2b0f7fe35162ed7d9b31093f2ba777a136174596d8508fed96f6dc4ffb23f3bd",
+            "size": 333648
+        },
+        {
+            "name": "main_file_cache.idx2",
+            "type": "CACHE",
+            "url": "https://github.com/Nexum038/kryos-launcher-files/releases/download/v1.0.0/main_file_cache.idx2",
+            "sha256": "003005f1860cab7145a2eab843e4f832a12036ee3e1d98c63c72ef298cc25be6",
+            "size": 25710
+        },
+        {
+            "name": "main_file_cache.idx4",
+            "type": "CACHE",
+            "url": "https://github.com/Nexum038/kryos-launcher-files/releases/download/v1.0.0/main_file_cache.idx4",
+            "sha256": "d536c4ef43d900e33d6d9885dcdce878986bea6c3ad349593c65014e3f722825",
+            "size": 37812
+        },
+        {
+            "name": "main_file_cache.idx5",
+            "type": "CACHE",
+            "url": "https://github.com/Nexum038/kryos-launcher-files/releases/download/v1.0.0/main_file_cache.idx5",
+            "sha256": "daa3b1cd6d662cbe787ca09194450bc2e035710d6b48a06553e7a268d794ac01",
+            "size": 33864
+        },
+        {
+            "name": "main_file_sprites.dat",
+            "type": "CACHE",
+            "url": "https://github.com/Nexum038/kryos-launcher-files/releases/download/v1.0.0/main_file_sprites.dat",
+            "sha256": "449fb102523f0808472218ec8404d263aaae85b1e3959b36d39817859e1ff08b",
+            "size": 15498878
+        },
+        {
+            "name": "main_file_sprites.idx",
+            "type": "CACHE",
+            "url": "https://github.com/Nexum038/kryos-launcher-files/releases/download/v1.0.0/main_file_sprites.idx",
+            "sha256": "de45c2d312c56a3fe9938683565019662fab0ebb0033115a434c77b246850357",
+            "size": 38440
+        },
+        {
+            "name": "bsp.jar",
+            "type": "CACHE",
+            "url": "https://github.com/Nexum038/kryos-launcher-files/releases/download/v1.0.0/bsp.jar",
+            "sha256": "6970b40601bb6275fa01b452d0db442933b7c227a7ca7fae4f56bee641705ac0",
+            "size": 1720316
         }
     ]
 }
